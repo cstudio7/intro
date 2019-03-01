@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page renders as expected 1`] = `null`;
+
+exports[`Page wrapped with redux connect works handles redux well 1`] = `undefined`;
+
+exports[`Page wrapped with redux is ok renders alright 1`] = `undefined`;
